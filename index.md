@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+<input type="text" id="number" name="number"/>
 
 You can use the [editor on GitHub](https://github.com/KacperWalentynowicz/critters.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
