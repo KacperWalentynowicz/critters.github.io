@@ -1,5 +1,5 @@
-var inImgSrc = "images/in.png";
-var outImgSrc = "images/out.png";
+var inImgSrc = "https://kacperwalentynowicz.github.io/critters.github.io/images/in.png";
+var outImgSrc = "https://kacperwalentynowicz.github.io/critters.github.io/images/out.png";
 var inputField = document.getElementById("number");
 
 function changeImg(id) {
